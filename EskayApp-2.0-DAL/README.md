@@ -1,3 +1,3 @@
 # OpenCV_3_KNN_Eskayan_Character_Recognition_Python_Windows
 OpenCV_3_KNN_Eskayan_Character_Recognition_Python_Windows
-Basic 24 Eskaya Characters
+Basic 24 Eskaya Characters + 22 Other Characters = 46 Abidiha Eskaya Characters
