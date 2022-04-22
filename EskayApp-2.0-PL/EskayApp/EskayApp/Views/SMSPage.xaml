@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EskayApp.Views.SMSPage" BackgroundColor="#2196f3">
+    <ContentPage.Content >
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="20" />
+                <RowDefinition Height="120" />
+                <RowDefinition Height="50" />
+                <RowDefinition Height="60" />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="20" />
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Feedback *" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" TextColor="White" FontSize="16" FontAttributes="Bold" />
+            <Editor Placeholder="Tell us what you think..." FontSize="16"  PlaceholderColor="WhiteSmoke" x:Name="feedbackEntry" Grid.Row="2" 
+                    Grid.Column="1" Grid.ColumnSpan="3" TextColor="White" TextChanged="FeedbackEntry_TextChanged"/>
+
+            <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand" VerticalOptions="Start" Grid.Row="3" Grid.Column="1"  Grid.ColumnSpan="3">
+                <StackLayout  Orientation="Vertical"  HorizontalOptions="Start">
+                    <Label Text="Name (optional)"  TextColor="White" FontSize="16" FontAttributes="Bold"/>
+                </StackLayout>
+                <StackLayout Orientation="Vertical"  HorizontalOptions="EndAndExpand"  >
+                    <Switch x:Name="styleSwitch"  Toggled="Switch_Toggled"  />
+                </StackLayout>
+            </StackLayout>
+
+            <Editor Placeholder="Type your name..." FontSize="16" PlaceholderColor="WhiteSmoke" IsEnabled="False" x:Name="senderName" Grid.Row="4" 
+                    Grid.Column="1"  Grid.ColumnSpan="3" TextColor="White" TextChanged="SenderName_TextChanged"/>
+
+            <Button Text="Send"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"
+                TextColor="#fff"
+                BackgroundColor="#1a88e0"
+                Clicked="SendSMS_OnClicked"
+                WidthRequest="200"
+                CornerRadius="30"
+                Margin="0,50,0,0"
+                Grid.Row="5" Grid.Column="1"  Grid.ColumnSpan="3"
+                />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

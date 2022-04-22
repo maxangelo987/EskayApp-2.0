@@ -1,0 +1,466 @@
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.Android.dll
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.dll
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.dll.config
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.nuget.stamp
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.csprojAssemblyReference.cache
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\libraryimports.cache.stamp
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res.flag
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.csproj.CoreCompileInputs.cache
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\XamlC.stamp
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.csproj.CopyComplete
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.dll
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\layout\tabbar.xml
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\layout\toolbar.xml
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\values\styles.xml
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\values\colors.xml
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\splash.xml
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_favorites.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_friends.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_nearby.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_recents.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_restaurants.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_favorites.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_friends.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_nearby.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_recents.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_restaurants.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_favorites.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_friends.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_nearby.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_recents.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_restaurants.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_favorites.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_friends.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_nearby.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_recents.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_restaurants.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_call.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_feedback.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_call.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_feedback.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_call.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_feedback.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_call.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_feedback.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_home.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_home.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_home.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_home.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_search.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_search.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_search.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_search.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\landing01.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\landing02.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\landing03.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\landing01.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\landing02.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\landing03.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\landing01.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\landing02.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\landing03.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\landing01.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\landing02.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\landing03.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\site_fb.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\site_web.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\site_web.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\site_web.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\site_web.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yap100days.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yapcal.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yaperc.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yapflu.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yap100days.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yapcal.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yaperc.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yapflu.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yap100days.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yapcal.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yaperc.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yapflu.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yap100days.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yapcal.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yaperc.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yapflu.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\icon.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\primertv.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\primertv.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\tsmb.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\tsmb.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\tsmb.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\tsmb.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\R.cs.flag
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\R.txt
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\uploadflags.txt
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\FormsViewGroup.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Microsoft.CSharp.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Mono.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\mscorlib.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Plugin.Messaging.Abstractions.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Core.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.IO.Compression.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Net.Http.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Numerics.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Numerics.Vectors.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Xml.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Xml.Linq.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Forms.Core.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.ComponentModel.Composition.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Data.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Transactions.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.IO.Compression.FileSystem.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Runtime.Serialization.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.ServiceModel.Internals.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Web.Services.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Mono.Security.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\FormsViewGroup.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Microsoft.CSharp.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Mono.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\mscorlib.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Plugin.Messaging.Abstractions.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Core.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.IO.Compression.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Net.Http.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Numerics.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Numerics.Vectors.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Xml.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Xml.Linq.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\EskayApp.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Forms.Core.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Forms.Xaml.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.ComponentModel.Composition.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Data.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Transactions.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.IO.Compression.FileSystem.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Runtime.Serialization.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.ServiceModel.Internals.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Web.Services.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Mono.Security.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Plugin.Messaging.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Essentials.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\EskayApp.Android.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Plugin.Messaging.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Essentials.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.Android.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Plugin.Messaging.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\EskayApp.Android.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Microsoft.CSharp.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Mono.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Mono.Security.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\mscorlib.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Plugin.Messaging.Abstractions.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Core.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Data.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Net.Http.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Numerics.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Runtime.Serialization.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Web.Services.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Xml.Linq.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Xml.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\EskayApp.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_tsb.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_final.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_ff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon_ff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon_ff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\icon_ff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon_ff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon_final.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon_final.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon_final.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_fff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon_fff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon_fff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon_fff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\icon_fff.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\com.Makasa.EskayApp.apk
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\bin\Release\com.Makasa.EskayApp-Signed.apk
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\bin\com.Makasa.EskayApp.apk
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\splash_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\splash_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\splash_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\splash_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\splash_yap.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_about.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_about.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_about.png
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_about.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.csprojAssemblyReference.cache
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\libraryimports.cache.stamp
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res.flag
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.dll
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.Android.dll
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\com.Makasa.EskayApp.apk
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\com.Makasa.EskayApp-Signed.apk
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.dll
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.dll.config
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.nuget.stamp
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.csproj.CoreCompileInputs.cache
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\XamlC.stamp
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\EskayApp.Android.csproj.CopyComplete
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\bin\com.Makasa.EskayApp.apk
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\layout\tabbar.xml
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\layout\toolbar.xml
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\values\styles.xml
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\values\colors.xml
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\splash.xml
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_favorites.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_friends.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_nearby.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_recents.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_restaurants.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_favorites.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_friends.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_nearby.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_recents.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_restaurants.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_favorites.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_friends.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_nearby.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_recents.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_restaurants.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_favorites.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_friends.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_nearby.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_recents.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_restaurants.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_call.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_feedback.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_call.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_feedback.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_call.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_feedback.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_call.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_feedback.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_home.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_home.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_home.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_home.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_search.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_search.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_search.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_search.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\landing01.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\landing02.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\landing03.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\landing01.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\landing02.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\landing03.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\landing01.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\landing02.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\landing03.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\landing01.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\landing02.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\landing03.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\site_fb.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\site_web.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\site_web.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\site_web.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\site_web.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yap100days.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yapcal.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yaperc.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\home_yapflu.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yap100days.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yapcal.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yaperc.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\home_yapflu.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yap100days.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yapcal.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yaperc.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\home_yapflu.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yap100days.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yapcal.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yaperc.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yapflu.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\home_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\icon.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\primertv.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\primertv.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\tsmb.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\tsmb.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\tsmb.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\tsmb.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_tsb.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_final.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_ff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon_ff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon_ff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\icon_ff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon_ff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon_final.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon_final.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon_final.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\icon_fff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\icon_fff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\icon_fff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\icon_fff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\icon_fff.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable\splash_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\splash_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\splash_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\splash_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\splash_yap.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-hdpi\ic_about.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xhdpi\ic_about.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxhdpi\ic_about.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\res\drawable-xxxhdpi\ic_about.png
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\R.cs.flag
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\R.txt
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\uploadflags.txt
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\FormsViewGroup.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Microsoft.CSharp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Mono.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Mono.Security.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\mscorlib.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Plugin.Messaging.Abstractions.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.ComponentModel.Composition.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Core.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Data.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.IO.Compression.FileSystem.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.IO.Compression.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Net.Http.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Numerics.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Numerics.Vectors.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Runtime.Serialization.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.ServiceModel.Internals.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Transactions.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Web.Services.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Xml.Linq.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\System.Xml.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Forms.Core.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Plugin.Messaging.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.Android.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamarin.Essentials.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\FormsViewGroup.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Microsoft.CSharp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Mono.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\mscorlib.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Plugin.Messaging.Abstractions.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Core.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.IO.Compression.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Net.Http.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Numerics.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Numerics.Vectors.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Xml.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Xml.Linq.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\EskayApp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Forms.Core.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Forms.Xaml.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.ComponentModel.Composition.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Data.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Transactions.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.IO.Compression.FileSystem.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Runtime.Serialization.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.ServiceModel.Internals.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\System.Web.Services.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Mono.Security.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\EskayApp.Android.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Plugin.Messaging.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Essentials.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Plugin.Messaging.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\EskayApp.Android.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Microsoft.CSharp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Mono.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Mono.Security.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\mscorlib.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Plugin.Messaging.Abstractions.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Core.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Data.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Net.Http.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Numerics.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Runtime.Serialization.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Web.Services.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Xml.Linq.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\System.Xml.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\EskayApp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\bin\Release\EskayApp.Android.dll
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\EskayApp.Android.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Plugin.Messaging.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamarin.Essentials.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp.Android\obj\Release\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
