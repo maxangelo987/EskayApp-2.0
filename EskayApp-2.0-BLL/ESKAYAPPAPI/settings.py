@@ -25,7 +25,7 @@ SECRET_KEY = 'i75+siquh6$1&38@=f==&db8si4&c4w94du0!@+%hlhu&30#=k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['eskayapp-api.herokuapp.com']
+ALLOWED_HOSTS = ['eskayapp-2-api.herokuapp.com']
 
 
 # Application definition
