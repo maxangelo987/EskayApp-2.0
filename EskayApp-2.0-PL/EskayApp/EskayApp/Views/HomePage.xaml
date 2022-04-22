@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:controls="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+              xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="EskayApp.Views.HomePage" BackgroundColor="#2196f3">
+
+    <Grid>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Image x:Name="imgCam" Grid.Row="0" Grid.Column="0"/>
+
+
+        <StackLayout Orientation="Vertical " Grid.Row="1"  >
+            <Button x:Name="btnCam" Text="SNAP A PIC | ᜃᜓᜑ ᜂᜄ᜔ ᜑᜓᜎᜄ᜔ᜏᜌ᜔" Grid.Row="1" Grid.Column="0" Margin="2" Clicked="BtnCam_Clicked"
+                BackgroundColor="#4c5051" TextColor="#FFF"/>
+            <Button x:Name="btnTrans" Text="TRANSLITERATE | ᜁᜊᜎ᜔ᜑᜒᜈ᜔" Grid.Row="2" Grid.Column="0" Margin="2" Clicked="BtnTrans_Clicked"
+                BackgroundColor="#4c5051" TextColor="#FFF"/>
+        </StackLayout>
+
+
+        <Label 
+            x:Name="lblTransInis" 
+            Grid.Row="2" 
+            Grid.Column="0" 
+            Text="{Binding MyStringProperty}" 
+            HorizontalTextAlignment="Center"
+            VerticalTextAlignment="Center"
+            FontSize="120"
+            TextColor="#000000"/>
+
+
+
+    </Grid>
+</ContentPage>

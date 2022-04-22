@@ -1,0 +1,36 @@
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.dll.config
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.deps.json
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.dll
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.pdb
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.csprojAssemblyReference.cache
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\App.xaml.g.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\HomePage.xaml.g.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\HotlinePage.xaml.g.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\SearchFeedbackPage.xaml.g.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\SMSPage.xaml.g.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.csproj.CoreCompileInputs.cache
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.AssemblyInfoInputs.cache
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.AssemblyInfo.cs
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\XamlC.stamp
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.dll
+A:\Projects\tsmb\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.dll.config
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.deps.json
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.dll
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\bin\Release\netstandard2.0\EskayApp.pdb
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.csprojAssemblyReference.cache
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\App.xaml.g.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\AboutPage.xaml.g.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\HomePage.xaml.g.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\HotlinePage.xaml.g.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\SearchFeedbackPage.xaml.g.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\Views\SMSPage.xaml.g.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.csproj.CoreCompileInputs.cache
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.AssemblyInfoInputs.cache
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.AssemblyInfo.cs
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\XamlC.stamp
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.dll
+\\192.168.13.108\shared\for max\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.pdb

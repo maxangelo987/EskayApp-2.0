@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<autofac:PrismApplication xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:autofac="clr-namespace:Prism.Autofac;assembly=Prism.Autofac.Forms"
+             x:Class="EskayApp.App">
+    <autofac:PrismApplication.Resources>
+
+        <!-- Application resource dictionary -->
+        <ResourceDictionary>
+
+            <!-- Colors -->
+            <Color x:Key="Primary">#E37A5E</Color>
+            <Color x:Key="PrimaryDark">#E6886E</Color>
+            <Color x:Key="Accent">#E37A5E</Color>
+
+            <Color x:Key="Gray">#D6D6D6</Color>
+            <Color x:Key="DarkGray">#A7A7A7</Color>
+            <Color x:Key="LightGray">#EFEFEF</Color>
+            <Color x:Key="White">#FFFFFF</Color>
+
+            <!-- Label -->
+            <Style x:Key="NormalLabel" TargetType="Label">
+                <Setter Property="FontFamily">
+                    <Setter.Value>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <On Platform="Android">Fonts/OpenSans-Regular.ttf#OpenSans</On>
+                        </OnPlatform>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+            <Style x:Key="LightLabel" TargetType="Label">
+                <Setter Property="FontFamily">
+                    <Setter.Value>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <On Platform="Android">Fonts/OpenSans-Light.ttf#Light</On>
+                        </OnPlatform>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+            <!-- Button -->
+            <Style x:Key="BaseButton" TargetType="Button">
+                <Setter Property="FontFamily">
+                    <Setter.Value>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <On Platform="Android">Fonts/OpenSans-Regular.ttf#OpenSans</On>
+                        </OnPlatform>
+                    </Setter.Value>
+                </Setter>
+                <!--  Custom button style  -->
+                <Setter Property="HeightRequest" Value="46"/>
+                <Setter Property="BorderRadius" Value="4" />
+                <Setter Property="BorderWidth" Value="0" />
+                <Setter Property="FontSize" Value="18" />
+            </Style>
+
+            <Style x:Key="GrayButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+                <Setter Property="BackgroundColor" Value="{StaticResource Gray}" />
+                <Setter Property="TextColor" Value="{StaticResource DarkGray}" />
+            </Style>
+
+            <Style x:Key="DarkGrayButton" TargetType="Button" BasedOn="{StaticResource BaseButton}">
+                <Setter Property="BackgroundColor" Value="{StaticResource DarkGray}" />
+                <Setter Property="TextColor" Value="{StaticResource White}" />
+            </Style>
+
+        </ResourceDictionary>
+    </autofac:PrismApplication.Resources>
+</autofac:PrismApplication>

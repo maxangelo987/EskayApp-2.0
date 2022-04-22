@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EskayApp.Views.SearchFeedbackPage" BackgroundColor="#2196f3">
+    <ScrollView Margin="10,0,10,50">
+        <StackLayout Margin="10,0,10,50">
+        <SearchBar Placeholder="Search by concern code..."
+           CancelButtonColor="DarkRed"
+           PlaceholderColor="WhiteSmoke"
+           TextColor="White"
+           HorizontalTextAlignment="Center"
+           FontSize="Medium"
+           FontAttributes="Italic" 
+           x:Name="Search"
+           Margin="10,0,10,50"
+          SearchButtonPressed="SearchBar_SearchButtonPressed"/>
+
+        <Frame BorderColor="Gray"
+       CornerRadius="5"
+       Padding="8" Margin="10,0,10,0"
+               x:Name="FrameInfo">
+            <StackLayout>
+                <Label Text="Concern Code:"
+                           FontSize="Small"
+                           FontAttributes="Bold" 
+                          x:Name="ConcernCode"/>
+                <BoxView Color="Gray"
+                 HeightRequest="2"
+                 HorizontalOptions="Fill" />
+                <Label Text="Status:"
+                       x:Name="ConcernStatus"
+                       FontSize="Small"
+                       FontAttributes="Bold" />
+                    <BoxView Color="Gray"
+                     HeightRequest="2"
+                     HorizontalOptions="Fill" />    
+                    <Label x:Name="ActionTaken" Text="Action Taken:"/>
+                    <BoxView Color="Gray"
+                     HeightRequest="2"
+                     HorizontalOptions="Fill" />
+                <Label x:Name="ConcernMsg" Text=""/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+    </ScrollView>
+
+</ContentPage>
+    
