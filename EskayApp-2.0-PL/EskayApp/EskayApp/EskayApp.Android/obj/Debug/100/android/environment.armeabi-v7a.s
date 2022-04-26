@@ -23,8 +23,8 @@
 	.section	.rodata.env.str.1,"aMS",%progbits,1
 	.type	.L.env.str.1, %object
 .L.env.str.1:
-	.asciz	"com.Makasa.EskayApp"
-	.size	.L.env.str.1, 20
+	.asciz	"com.Makasa.EskayApp2"
+	.size	.L.env.str.1, 21
 	.section	.data.application_config,"aw",%progbits
 	.type	application_config, %object
 	.p2align	2
@@ -92,7 +92,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",%progbits,1
 	.type	.L.env.str.8, %object
 .L.env.str.8:
-	.asciz	"c90acbf3-e7c8-42c1-9a42-579b6dc4d723"
+	.asciz	"28bfc60c-30fd-4589-9388-1118c9cb4274"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",%progbits,1
 	.type	.L.env.str.9, %object
