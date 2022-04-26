@@ -259,38 +259,38 @@
 	.section	.rodata.map_aname.43,"aMS",@progbits,1
 	.type	.L.map_aname.43, @object
 .L.map_aname.43:
-	.asciz	"Xamarin.Google.Guava.ListenableFuture"
-	.size	.L.map_aname.43, 38
+	.asciz	"EskayApp.Android"
+	.size	.L.map_aname.43, 17
 
 	.section	.rodata.map_aname.44,"aMS",@progbits,1
 	.type	.L.map_aname.44, @object
 .L.map_aname.44:
-	.asciz	"Xamarin.AndroidX.Legacy.Support.Core.Utils"
-	.size	.L.map_aname.44, 43
+	.asciz	"Xamarin.Google.Guava.ListenableFuture"
+	.size	.L.map_aname.44, 38
 
 	.section	.rodata.map_aname.45,"aMS",@progbits,1
 	.type	.L.map_aname.45, @object
 .L.map_aname.45:
-	.asciz	"Xamarin.AndroidX.SwipeRefreshLayout"
-	.size	.L.map_aname.45, 36
+	.asciz	"Xamarin.AndroidX.Legacy.Support.Core.Utils"
+	.size	.L.map_aname.45, 43
 
 	.section	.rodata.map_aname.46,"aMS",@progbits,1
 	.type	.L.map_aname.46, @object
 .L.map_aname.46:
-	.asciz	"Xamarin.AndroidX.Lifecycle.Runtime"
-	.size	.L.map_aname.46, 35
+	.asciz	"Xamarin.AndroidX.SwipeRefreshLayout"
+	.size	.L.map_aname.46, 36
 
 	.section	.rodata.map_aname.47,"aMS",@progbits,1
 	.type	.L.map_aname.47, @object
 .L.map_aname.47:
-	.asciz	"Xamarin.AndroidX.Media"
-	.size	.L.map_aname.47, 23
+	.asciz	"Xamarin.AndroidX.Lifecycle.Runtime"
+	.size	.L.map_aname.47, 35
 
 	.section	.rodata.map_aname.48,"aMS",@progbits,1
 	.type	.L.map_aname.48, @object
 .L.map_aname.48:
-	.asciz	"EskayApp.Android"
-	.size	.L.map_aname.48, 17
+	.asciz	"Xamarin.AndroidX.Media"
+	.size	.L.map_aname.48, 23
 
 	.section	.rodata.map_aname.49,"aMS",@progbits,1
 	.type	.L.map_aname.49, @object
