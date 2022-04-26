@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EskayApp.Views.AboutPage" BackgroundColor="#2196f3">
+    <RelativeLayout>
+        <FlexLayout Wrap="Wrap" AlignItems="Center" Direction="Column"
+                    AlignContent="Center" JustifyContent="Center" >
+
+            <Label Text="Developed and Maintained by © ᜋᜃᜐ Makasa 2021-2022" 
+                   TextColor="WhiteSmoke"
+                   FontSize="15"/>
+            <Button x:Name="btnSend"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                Text="More Information"
+                 TextColor="#fff"
+                BackgroundColor="#1a88e0"
+                Clicked="BtnCall_Clicked"
+                WidthRequest="300"
+                HeightRequest="100"
+                Opacity="1"
+                Margin="0,20,0,100"
+                FontSize="15"
+                CornerRadius="40"
+                BorderColor="White"
+                BorderWidth="3"
+                RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=0.75,Constant=0}"
+                RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0,Constant=50}" 
+                 />
+        </FlexLayout>
+    </RelativeLayout>
+</ContentPage>
