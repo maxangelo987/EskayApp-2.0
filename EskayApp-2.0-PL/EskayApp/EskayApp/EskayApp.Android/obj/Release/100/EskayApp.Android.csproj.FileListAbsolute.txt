@@ -1645,6 +1645,7 @@ D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\1
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\89\jl\files.cache
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\98\jl\files.cache
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\100\jl\files.cache
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\aapt_rules.txt
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\R.txt
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\R.cs.flag
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\EskayApp.Android.csproj.CoreCompileInputs.cache
@@ -1812,6 +1813,7 @@ D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\1
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Plugin.Messaging.Abstractions.dll
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Plugin.Messaging.Abstractions.pdb
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Plugin.Messaging.dll
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Plugin.Messaging.dll.mdb
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Plugin.Permissions.dll
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Prism.Autofac.Forms.dll
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Prism.dll
@@ -1979,6 +1981,7 @@ D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\1
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager2.dll
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager2.pdb
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.Essentials.dll
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.Essentials.dll.mdb
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.dll
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.pdb
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.Android.dll
@@ -1993,17 +1996,17 @@ D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\1
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamd.ImageCarousel.Forms.Plugin.Droid.dll
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\jl\9b36d612-0019-48aa-bf3c-e5a3b552f196.jar
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\jl\8e1f73fb-fd89-4876-b944-828594a82aea.jar
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\stamp\_AndroidXJetifyJavaLibraryRules.stamp
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\0b6ca719-37de-4167-bb55-18b02dd62591.txt
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\0ca044ee-12be-4338-8410-4206e8b53622.txt
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\14d7b024-90ca-4e18-83c4-9909e64f1e53.txt
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\1ea3a0f6-05be-4497-b5ad-fbdeb2bc8ee2.txt
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\29eade04-f8ad-4deb-832e-2649683b462f.txt
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\36eac26b-c099-44a6-944b-8327f750dd55.txt
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\a0c6ca13-f8c2-444e-aa13-03b302264ec9.cfg
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\e10ebe32-f33d-40ed-8ecd-340d47323fcc.txt
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\eaa976e0-ff9d-4759-8ec3-704f62628d50.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\22de89bf-fc3f-478b-b2d4-3342c09fb7dd.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\256796fd-1923-483f-8c99-f17224376281.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\35552afd-aa3c-4e93-aef7-7812ff189103.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\50639c16-bb43-468e-a1bf-58d2f26b28e5.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\9f17b8e2-9be9-49e4-8e80-05ed1fa60cd0.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\acbf6628-b03c-4b79-849b-7d75f49ead6f.cfg
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\aebe2f47-9d33-4fe6-9344-e386118160b3.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\ce92d041-a2f4-478c-ba8e-a4ed35bea0ba.txt
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\proguard\f7bd33fc-b661-4492-9c42-f765500a7a12.txt
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\stamp\_AndroidXJetifyProguardRules.stamp
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\androidx\_AndroidXJetifyProguardRules.jetify
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\stamp\_AndroidXCecilfy.stamp
@@ -2404,5 +2407,3 @@ D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\1
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\stamp\_GenerateJavaStubs.stamp
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\stamp\_GeneratePackageManagerJava.stamp
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\stamp\_ResolveLibraryProjectImports.stamp
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Plugin.Messaging.pdb
-D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\android\assets\Xamarin.Essentials.pdb

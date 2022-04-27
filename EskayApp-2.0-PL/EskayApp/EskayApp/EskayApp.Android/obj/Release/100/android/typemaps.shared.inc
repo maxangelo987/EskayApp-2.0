@@ -223,44 +223,44 @@
 	.section	.rodata.map_aname.37,"aMS",@progbits,1
 	.type	.L.map_aname.37, @object
 .L.map_aname.37:
-	.asciz	"Xamarin.AndroidX.CustomView"
-	.size	.L.map_aname.37, 28
+	.asciz	"EskayApp.Android"
+	.size	.L.map_aname.37, 17
 
 	.section	.rodata.map_aname.38,"aMS",@progbits,1
 	.type	.L.map_aname.38, @object
 .L.map_aname.38:
-	.asciz	"Xamarin.AndroidX.Browser"
-	.size	.L.map_aname.38, 25
+	.asciz	"Xamarin.AndroidX.CustomView"
+	.size	.L.map_aname.38, 28
 
 	.section	.rodata.map_aname.39,"aMS",@progbits,1
 	.type	.L.map_aname.39, @object
 .L.map_aname.39:
-	.asciz	"Xamarin.AndroidX.Lifecycle.LiveData"
-	.size	.L.map_aname.39, 36
+	.asciz	"Xamarin.AndroidX.Browser"
+	.size	.L.map_aname.39, 25
 
 	.section	.rodata.map_aname.40,"aMS",@progbits,1
 	.type	.L.map_aname.40, @object
 .L.map_aname.40:
-	.asciz	"Xamarin.Google.Android.Material"
-	.size	.L.map_aname.40, 32
+	.asciz	"Xamarin.AndroidX.Lifecycle.LiveData"
+	.size	.L.map_aname.40, 36
 
 	.section	.rodata.map_aname.41,"aMS",@progbits,1
 	.type	.L.map_aname.41, @object
 .L.map_aname.41:
-	.asciz	"BottomNavigationBar"
-	.size	.L.map_aname.41, 20
+	.asciz	"Xamarin.Google.Android.Material"
+	.size	.L.map_aname.41, 32
 
 	.section	.rodata.map_aname.42,"aMS",@progbits,1
 	.type	.L.map_aname.42, @object
 .L.map_aname.42:
-	.asciz	"Xamarin.AndroidX.SavedState"
-	.size	.L.map_aname.42, 28
+	.asciz	"BottomNavigationBar"
+	.size	.L.map_aname.42, 20
 
 	.section	.rodata.map_aname.43,"aMS",@progbits,1
 	.type	.L.map_aname.43, @object
 .L.map_aname.43:
-	.asciz	"EskayApp.Android"
-	.size	.L.map_aname.43, 17
+	.asciz	"Xamarin.AndroidX.SavedState"
+	.size	.L.map_aname.43, 28
 
 	.section	.rodata.map_aname.44,"aMS",@progbits,1
 	.type	.L.map_aname.44, @object
