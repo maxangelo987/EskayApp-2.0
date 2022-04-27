@@ -194,34 +194,34 @@ namespace EskayApp.Views
                     case "0":
                         final_respond = "Ngoy";
                         break;
-                    case "\u1700":
+                    case "\\u1700":
                         final_respond = "Ning";
                         break;
-                    case "\u170a":
+                    case "\\u170a":
                         final_respond = "Ny";
                         break;
-                    case "\u1703":
+                    case "\\u1703":
                         final_respond = "Nya";
                         break;
-                    case "\u1707":
+                    case "\\u1707":
                         final_respond = "Pa";
                         break;
-                    case "\u1701":
+                    case "\\u1701":
                         final_respond = "Pag";
                         break;
-                    case "\u1704":
+                    case "\\u1704":
                         final_respond = "Pre";
                         break;
-                    case "\u1711":
+                    case "\\u1711":
                         final_respond = "Sa";
                         break;
-                    case "\u170e":
+                    case "\\u170e":
                         final_respond = "Tao";
                         break;
-                    case "\u170b":
+                    case "\\u170b":
                         final_respond = "Ted";
                         break;
-                    case "\u1708":
+                    case "\\u1708":
                         final_respond = "Was";
                         break;
                 };
