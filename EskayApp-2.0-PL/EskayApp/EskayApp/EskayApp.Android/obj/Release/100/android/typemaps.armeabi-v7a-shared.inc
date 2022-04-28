@@ -109,26 +109,26 @@
 	.section	.rodata.map_aname.18,"aMS",%progbits,1
 	.type	.L.map_aname.18, %object
 .L.map_aname.18:
-	.asciz	"Xamarin.AndroidX.AppCompat"
-	.size	.L.map_aname.18, 27
+	.asciz	"EskayApp.Android"
+	.size	.L.map_aname.18, 17
 
 	.section	.rodata.map_aname.19,"aMS",%progbits,1
 	.type	.L.map_aname.19, %object
 .L.map_aname.19:
-	.asciz	"Xamarin.AndroidX.Annotation.Experimental"
-	.size	.L.map_aname.19, 41
+	.asciz	"Xamarin.AndroidX.AppCompat"
+	.size	.L.map_aname.19, 27
 
 	.section	.rodata.map_aname.20,"aMS",%progbits,1
 	.type	.L.map_aname.20, %object
 .L.map_aname.20:
-	.asciz	"Xamarin.AndroidX.LocalBroadcastManager"
-	.size	.L.map_aname.20, 39
+	.asciz	"Xamarin.AndroidX.Annotation.Experimental"
+	.size	.L.map_aname.20, 41
 
 	.section	.rodata.map_aname.21,"aMS",%progbits,1
 	.type	.L.map_aname.21, %object
 .L.map_aname.21:
-	.asciz	"EskayApp.Android"
-	.size	.L.map_aname.21, 17
+	.asciz	"Xamarin.AndroidX.LocalBroadcastManager"
+	.size	.L.map_aname.21, 39
 
 	.section	.rodata.map_aname.22,"aMS",%progbits,1
 	.type	.L.map_aname.22, %object

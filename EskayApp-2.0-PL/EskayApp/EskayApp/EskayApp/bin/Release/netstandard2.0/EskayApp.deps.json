@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "EskayApp/2.0.0": {
+      "EskayApp/2.0.1": {
         "dependencies": {
           "CarouselView.FormsPlugin": "5.2.0",
           "Microsoft.CSharp": "4.6.0",
@@ -209,7 +209,7 @@
     }
   },
   "libraries": {
-    "EskayApp/2.0.0": {
+    "EskayApp/2.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

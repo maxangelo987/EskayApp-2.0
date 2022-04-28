@@ -51,3 +51,4 @@ D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp\obj\Release\netstanda
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\XamlC.stamp
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.dll
 D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.pdb
+D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp\obj\Release\netstandard2.0\EskayApp.csprojAssemblyReference.cache

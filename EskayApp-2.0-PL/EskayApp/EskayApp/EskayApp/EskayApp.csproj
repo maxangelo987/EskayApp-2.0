@@ -11,7 +11,7 @@
     <ApplicationIcon>EskayApp.ico</ApplicationIcon>
     <Description>EskayApp 2.0 is an updated version of the transliteration App that can help Eskayans and Boholanos who do 'not know how to read the Eskayan. The app uses a K-Nearest Neighbors Algorithm for its business logic layer or backend a Supervised Machine Learning to create the API(application programming interface) for the said application. Using camera access will take a photo of the Eskayan image script and output it into the Latin text script for its Presentation Layer of the app. It has added 22 other Eskaya characters to complete the 46 Abidiha characters.</Description>
     <NeutralLanguage>en-PH</NeutralLanguage>
-    <Version>2.0.0</Version>
+    <Version>2.0.1</Version>
     <RootNamespace>EskayApp</RootNamespace>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>

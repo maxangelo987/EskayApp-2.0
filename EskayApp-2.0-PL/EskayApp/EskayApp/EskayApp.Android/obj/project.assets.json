@@ -2072,7 +2072,7 @@
           "lib/MonoAndroid10/Xamd.ImageCarousel.Forms.Plugin.Droid.dll": {}
         }
       },
-      "EskayApp 2.0/2.0.0": {
+      "EskayApp 2.0/2.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -6608,7 +6608,7 @@
         "xamd.plugins.forms.imagecarousel.nuspec"
       ]
     },
-    "EskayApp 2.0/2.0.0": {
+    "EskayApp 2.0/2.0.1": {
       "type": "project",
       "path": "../EskayApp/EskayApp.csproj",
       "msbuildProject": "../EskayApp/EskayApp.csproj"
@@ -6618,7 +6618,7 @@
     "MonoAndroid,Version=v10.0": [
       "BottomNavigationBar >= 1.4.0.3",
       "CarouselView.FormsPlugin >= 5.2.0",
-      "EskayApp 2.0 >= 2.0.0",
+      "EskayApp 2.0 >= 2.0.1",
       "Microsoft.CSharp >= 4.6.0",
       "Newtonsoft.Json >= 12.0.2",
       "Prism.Autofac.Forms >= 7.0.0.396",
