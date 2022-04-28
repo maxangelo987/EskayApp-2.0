@@ -39,12 +39,6 @@ com.google.android.material.tabs.TabLayout;D:\EskayApp-2.0\EskayApp-2.0-PL\Eskay
 com.google.android.material.tabs.TabLayout;obj\Release\100\res\layout\tabbar.xml
 Com.ViewPagerIndicator.CirclePageIndicator;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\1\jl\res\layout\horizontal_viewpager.xml
 Com.ViewPagerIndicator.CirclePageIndicator;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\1\jl\res\layout\vertical_viewpager.xml
-crc643f46942d9dd1fff9.ShellFlyoutLayout;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\55\jl\res\layout\flyoutcontent.xml
-crc6443725871784b4041.HorizontalViewPager;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\1\jl\res\layout\horizontal_viewpager.xml
-crc6443725871784b4041.VerticalViewPager;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\1\jl\res\layout\vertical_viewpager.xml
-crc646c47a7af3a53b8ab.CirclePageIndicator;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\1\jl\res\layout\horizontal_viewpager.xml
-crc646c47a7af3a53b8ab.CirclePageIndicator;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\1\jl\res\layout\vertical_viewpager.xml
-crc64720bb2db43a66fe9.FormsViewPager;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\55\jl\res\layout\rootlayout.xml
 declare-styleable;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\3\jl\res\values\vpi__attrs.xml
 declare-styleable;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\55\jl\res\values\attrs.xml
 dimen;D:\EskayApp-2.0\EskayApp-2.0-PL\EskayApp\EskayApp\EskayApp.Android\obj\Release\100\lp\0\jl\res\values\dimens.xml

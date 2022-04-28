@@ -71,7 +71,7 @@
 
 	/* 7: EskayApp.dll */
 	/* uncompressed_file_size */
-	.word	71680
+	.word	72192
 	/* loaded */
 	.byte	0
 	/* data */

@@ -13,10 +13,10 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ᜋᜃᜐ Makasa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyCopyrightAttribute("2021")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute(@"As Eskayans and Boholanos learned the Latin alphabet, the use of Eskayan began to die out. A response to this problem, House Bill 8785, is trying to promote Philippine traditional writing systems and providing for their protection and conservation. The proposed EskayApp is Transliteration App that can help Eskayans and Boholanos who do 'not know how to read the Eskayan. The app will use a K-Nearest Neighbors Algorithm for its business logic layer or backend a Supervised Machine Learning to create the API(application programming interface) for the said application. Using camera access will take a photo of the Eskayan image script and output it into the Latin text script for its Presentation Layer of the app.")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("2021-2022")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute(@"EskayApp 2.0 is an updated version of the transliteration App that can help Eskayans and Boholanos who do 'not know how to read the Eskayan. The app uses a K-Nearest Neighbors Algorithm for its business logic layer or backend a Supervised Machine Learning to create the API(application programming interface) for the said application. Using camera access will take a photo of the Eskayan image script and output it into the Latin text script for its Presentation Layer of the app. It has added 22 other Eskaya characters to complete the 46 Abidiha characters.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EskayApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EskayApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

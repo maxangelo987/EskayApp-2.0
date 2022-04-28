@@ -6,7 +6,7 @@
     the contents are regenerated.
     -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="2.0" package="com.Makasa.EskayApp2" android:installLocation="preferExternal" android:versionCode="2">
-  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="29" />
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="30" />
   <uses-permission android:name="android.permission.CAMERA" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
