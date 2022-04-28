@@ -91,7 +91,7 @@
 
 	/* 7: EskayApp.dll */
 	/* uncompressed_file_size */
-	.long	72192
+	.long	71680
 	/* loaded */
 	.byte	0
 	/* data */
