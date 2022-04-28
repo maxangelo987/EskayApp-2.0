@@ -31,7 +31,7 @@ namespace EskayApp
         {
             try
             {
-                RestClient restClient = new RestClient("https://eskayapp-api.herokuapp.com/");
+                RestClient restClient = new RestClient("https://eskayapp-2-api.herokuapp.com/");
                 RestRequest restRequest = new RestRequest("/wake_up/");
                 restRequest.RequestFormat = DataFormat.Json;
                 restRequest.Method = Method.POST;
